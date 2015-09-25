@@ -4,14 +4,21 @@ Hoog is an application that helps people quickly sell their old thing. By using 
 ## User Stories
 
 ### Home screen
-* Search field on the navigation bar, full size
+
+* Search field on the top navigation bar, full size
 * Click on search field will automatically list out three most searched keywords(optional)
 * User be able to pull to refresh
 * (things to be sell) items displays in waterfall style with elements:
- ** Image of the item
- ** Summary of the item
- ** Price of the item
- ** Description of the item
- ** Image of the seller in small cycle shape
- ** Name of the seller
- 
+ * Image of the item
+ * Summary of the item
+ * Price of the item
+ * Description of the item
+ * Image of the seller in small cycle shape
+ * Name of the seller
+ * Star rate of the seller
+* Bottom navigation bar with three elements: Home icon, Capture image icon, User setting icon
+* User is able to touch on the item to view in details page
+
+### Details screen
+
+
